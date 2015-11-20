@@ -48,7 +48,7 @@ try {
     }
     } 
      
-
+// Tähän tehdään Hakija-metodi, joka hakee tietokannasta tietoja.
     public void hakija(){
         
     }
